@@ -45,6 +45,7 @@ Important info
 Sens 5x5y
 3200 dpi
 Logitech GHUB needed
+--------------
 Activation Key
 --------------
 
