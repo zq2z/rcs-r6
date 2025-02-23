@@ -39,12 +39,7 @@ Weapons Supported
 ----------------------------------------------------------
 User Configuration
 ----------------------------------------------------------
-----------------------------------------------------------
-Important info
-----------------------------------------------------------
-Sens 5x5y
-3200 dpi
-Logitech GHUB needed
+
 --------------
 Activation Key
 --------------
@@ -210,3 +205,9 @@ Usage
 5. Enjoy reduced recoil with natural variability while playing Rainbow Six Siege.
 
 **Note**: Use this script responsibly and be aware of the terms of service of the game you are playing.
+----------------------------------------------------------
+Important info
+----------------------------------------------------------
+Sens 5x5y
+3200 dpi
+Logitech GHUB needed
