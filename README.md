@@ -4,9 +4,7 @@ Rainbow Six Siege No Recoil Script
 
 
 This Lua script is designed to reduce recoil for 17 different weapons in Rainbow Six Siege. It includes a randomizer to add variability to the recoil control, making it more natural and less detectable.
-Sens 5x5y
-3200 dpi
-Logitech GHUB needed
+
 
 ----------------------------------------------------------
 Features
